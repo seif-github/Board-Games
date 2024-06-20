@@ -48,6 +48,7 @@
 		<Unit filename="src/four_in_row_RandomPlayer.cpp" />
 		<Unit filename="src/pyramidPlayer.cpp" />
 		<Unit filename="src/pyramidRandomPlayer.cpp" />
+		<Unit filename="src/pyramid_AI_Player.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

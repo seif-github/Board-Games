@@ -24,6 +24,7 @@ public:
    virtual void display_board() = 0;
    // Return true if game is over
    virtual bool game_is_over() = 0;
+
 };
 
 ///////////////////////////////////////////
@@ -48,6 +49,8 @@ public:
     bool is_winner();
     bool is_draw();
     bool game_is_over();
+    int what_about_now();
+    int AI(int& x ,int& y, bool first_time , bool isMax);
 };
 // this class represents four in a row board
 class four_in_row_Board :public Board {
@@ -94,6 +97,14 @@ class Player {
         string to_string();
         // Get symbol used by player
         char get_symbol();
+};
+///////////////////////////////////////////
+class pyramid_AI_Player : public Player{
+private:
+    PYRAMID_XO_Board* board;
+public:
+    pyramid_AI_Player(char symbol, PYRAMID_XO_Board* board);
+    void get_move (int& x, int& y);
 };
 
 ///////////////////////////////////////////

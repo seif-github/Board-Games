@@ -31,17 +31,22 @@ int main()
         x_o_game.run();
     }
     else if (menu == 2){
-        players[0] = new pyramidPlayer(1, 'o');
-        cout << "Press 1 if you want to play with computer: ";
+        players[0] = new pyramidPlayer(1, 'x');
+        cout << "Please Choose who you want to play with: \n";
+        cout << "1) Computer\n2) AI Player\n3) Friend\n";
         int choice;
         cin >> choice;
-        if (choice != 1)
-            players[1] = new pyramidPlayer(2, 'x');
-        else // with computer
+        PYRAMID_XO_Board* same_pyramid_Board = new PYRAMID_XO_Board();
+        if (choice == 1)
             //Player pointer points to child
-            players[1] = new pyramidRandomPlayer('x', 3, 5);
+            players[1] = new pyramidRandomPlayer('o', 3, 5);
 
-        GameManager x_o_game(new PYRAMID_XO_Board(), players);
+        else if(choice == 2)
+            players[1] = new pyramid_AI_Player('o', same_pyramid_Board);
+        else if(choice == 3)
+            players[1] = new pyramidPlayer(2, 'o');
+
+        GameManager x_o_game(same_pyramid_Board, players);
         x_o_game.run();
     }
     else if (menu == 3){
@@ -53,7 +58,7 @@ int main()
             players[1] = new four_in_row_Player(2, 'x');
         else // with computer
             //Player pointer points to child
-            players[1] = new four_in_row_RandomPlayer('x', 5);
+            players[1] = new four_in_row_RandomPlayer('x', 7);
 
         GameManager x_o_game(new four_in_row_Board(), players);
         x_o_game.run();

@@ -86,87 +86,188 @@
 	<algorithm>
 	"BoardGame.h"
 
-1702846140 source:d:\github_repos\assignment_3\task#2\xo(separated)\main.cpp
+1702850562 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\main.cpp
 	<iostream>
 	"BoardGame.h"
 
-1702848030 d:\github_repos\assignment_3\task#2\xo(separated)\include\boardgame.h
+1702848030 d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\include\boardgame.h
 
-1702846973 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\four_in_row_board.cpp
-	<iostream>
-	<random>
-	<iomanip>
-	<algorithm>
-	"BoardGame.h"
-
-1702847713 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\four_in_row_player.cpp
+1702846973 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\four_in_row_board.cpp
 	<iostream>
 	<random>
 	<iomanip>
 	<algorithm>
 	"BoardGame.h"
 
-1702891356 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\four_in_row_randomplayer.cpp
+1702847713 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\four_in_row_player.cpp
 	<iostream>
 	<random>
 	<iomanip>
 	<algorithm>
 	"BoardGame.h"
 
-1702846316 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\gamemanager.cpp
-	<iostream>
-	"BoardGame.h"
-
-1702846315 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\player.cpp
+1702848050 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\four_in_row_randomplayer.cpp
 	<iostream>
 	<random>
 	<iomanip>
 	<algorithm>
 	"BoardGame.h"
 
-1702846777 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\pyramid_xo_board.cpp
+1702846316 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\gamemanager.cpp
+	<iostream>
+	"BoardGame.h"
+
+1702846315 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\player.cpp
 	<iostream>
 	<random>
 	<iomanip>
 	<algorithm>
 	"BoardGame.h"
 
-1702848138 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\pyramidplayer.cpp
+1702846777 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\pyramid_xo_board.cpp
 	<iostream>
 	<random>
 	<iomanip>
 	<algorithm>
 	"BoardGame.h"
 
-1702847611 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\pyramidrandomplayer.cpp
+1702848138 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\pyramidplayer.cpp
 	<iostream>
 	<random>
 	<iomanip>
 	<algorithm>
 	"BoardGame.h"
 
-1702846315 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\randomplayer.cpp
+1702847611 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\pyramidrandomplayer.cpp
 	<iostream>
 	<random>
 	<iomanip>
 	<algorithm>
 	"BoardGame.h"
 
-1702846123 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\x_o_board.cpp
+1702846315 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\randomplayer.cpp
 	<iostream>
 	<random>
 	<iomanip>
 	<algorithm>
 	"BoardGame.h"
 
-1702847149 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\xo_5x5_board.cpp
+1702846123 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\x_o_board.cpp
 	<iostream>
 	<random>
 	<iomanip>
 	<algorithm>
 	"BoardGame.h"
 
-1702847787 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\xo_5x5_player.cpp
+1702847149 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\xo_5x5_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847787 source:d:\fcai-cu\second year\oop\assignment #3\task#2\a3_task2_3_s9_20220162_20220168_20220439\src\xo_5x5_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846973 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\four_in_row_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1703190116 d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\include\boardgame.h
+
+1702847713 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\four_in_row_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702891182 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\four_in_row_randomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846316 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\gamemanager.cpp
+	<iostream>
+	"BoardGame.h"
+
+1702846315 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702848138 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\pyramidplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847611 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\pyramidrandomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846315 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\randomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846123 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\x_o_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847149 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\xo_5x5_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847787 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\xo_5x5_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1703190135 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\ai_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1703190256 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\main.cpp
+	<iostream>
+	"BoardGame.h"
+
+1703190488 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\pyramid_xo_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1703190135 source:d:\fcai-cu\second year\oop\assignment #3\final\a3_task5_s9_20220162_20220168_20220439\src\pyramid_ai_player.cpp
 	<iostream>
 	<random>
 	<iomanip>
