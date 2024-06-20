@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1702846140 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\main.cpp
+	<iostream>
+	"BoardGame.h"
+
+1702848030 d:\fcai-cu\second year\oop\assignment #3\task#2\xo\include\boardgame.h
+
+1702846973 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\four_in_row_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847713 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\four_in_row_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846316 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\gamemanager.cpp
+	<iostream>
+	"BoardGame.h"
+
+1702846315 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846777 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\pyramid_xo_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847927 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\pyramidplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847611 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\pyramidrandomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846315 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\randomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846123 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\x_o_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847149 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\xo_5x5_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847787 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\xo_5x5_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702848050 source:d:\fcai-cu\second year\oop\assignment #3\task#2\xo\src\four_in_row_randomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846140 source:d:\github_repos\assignment_3\task#2\xo(separated)\main.cpp
+	<iostream>
+	"BoardGame.h"
+
+1702848030 d:\github_repos\assignment_3\task#2\xo(separated)\include\boardgame.h
+
+1702846973 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\four_in_row_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847713 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\four_in_row_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702891356 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\four_in_row_randomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846316 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\gamemanager.cpp
+	<iostream>
+	"BoardGame.h"
+
+1702846315 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846777 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\pyramid_xo_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702848138 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\pyramidplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847611 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\pyramidrandomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846315 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\randomplayer.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702846123 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\x_o_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847149 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\xo_5x5_board.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
+1702847787 source:d:\github_repos\assignment_3\task#2\xo(separated)\src\xo_5x5_player.cpp
+	<iostream>
+	<random>
+	<iomanip>
+	<algorithm>
+	"BoardGame.h"
+
